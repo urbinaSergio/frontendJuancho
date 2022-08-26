@@ -1,6 +1,6 @@
-# frontendNexos
+# frontendJuancho
 
-Hola muy buenas noches señores de Nexos Software;
+Hola muy buenas noches señores de Jucho te presta;
 
 En este repositorio se encuentra el frontend que realice para conectar un servicio de busqueda por puroducto.
 
